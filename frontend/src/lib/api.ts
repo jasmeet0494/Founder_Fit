@@ -5,7 +5,7 @@
  * Reads VITE_API_BASE_URL from environment (defaults to http://localhost:8000).
  */
 
-const BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+const BASE_URL = import.meta.env.VITE_API_BASE_URL ?? "http://localhost:8000";
 
 // ── Token helpers ──────────────────────────────────────────────
 // NOTE: Storing tokens in localStorage is acceptable for this learning
