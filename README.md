@@ -1,6 +1,6 @@
 # FounderFit 
 
-URL - founder-fit-six.vercel.app
+URL - [https://founder-fit-six.vercel.app/](url)
 
 A co-founder matching platform. Founders with a startup idea can find a skilled co-founder, and skilled professionals can find a startup to join.
 
